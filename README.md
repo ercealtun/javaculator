@@ -1,3 +1,4 @@
 # javaculator
 Basic Calculator Java Application
-<a href="javaculator/CalculatorApp/CalculatorApp.jar" download> Click to Download</a>
+⭐️ Download the jar file: <a href="javaculator/CalculatorApp/CalculatorApp.jar" download> Click to Download</a>
+⚠️ Requires an installed Jdk
